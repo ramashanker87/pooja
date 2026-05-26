@@ -2,7 +2,7 @@
 ## Day 1 — 18-May-2026 (Monday)
 
 ### Module
-**Module 1 – DevOps & CI/CD Fundamentals**
+**Module 1 – DevOps & CI/CD Fundamentals***
 
 ### Theory
 - Introduction to DevOps

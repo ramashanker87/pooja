@@ -74,7 +74,7 @@ sudo apt update
 sudo apt install git -y
 ```
 
----
+----
 
 ## Step 3: Configure Git
 

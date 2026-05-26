@@ -25,7 +25,7 @@ The primary goal of DevOps is:
 
 ## Traditional Workflow
 
-```text
+````text
 Development Team → Testing Team → Operations Team → Production
 ```
 
